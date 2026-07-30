@@ -150,7 +150,7 @@
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://linkedin.com/in/arshdeep-singh-742973240">
+<a href="https://linkedin.com/in/er-arshdeep-singh-742973240">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
