@@ -1,139 +1,148 @@
-<h1 align="center">Hi 👋, I'm Arshdeep Singh</h1>
+<div align="center">
 
-<h3 align="center">
-Cybersecurity Engineer | Ethical Hacker | AI-Powered Cybersecurity | Security Trainer
-</h3>
+# Hi 👋 I'm Arshdeep Singh
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Cybersecurity+Engineer;Ethical+Hacker;Security+Trainer;AI-Powered+Cybersecurity;Linux+%7C+Networking+%7C+Web+Security" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Cybersecurity+Engineer;Ethical+Hacker;Security+Trainer;AI-Powered+Cybersecurity;Linux+%7C+Networking+%7C+Web+Security" />
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Hack%20to%20Secure&fontSize=50&fontColor=00E5FF&animation=fadeIn"/>
 
-## 👨‍💻 About Me
-
-- 🔐 Cybersecurity Engineer
-- 🛡️ Ethical Hacking & Penetration Testing
-- 🌐 Networking & Network Security
-- 🐧 Linux Administration
-- 🤖 AI-Powered Cybersecurity
-- 📊 SIEM (Wazuh)
-- 🎓 Cybersecurity Trainer
+</div>
 
 ---
 
-## 🚀 Tech Stack
+# 👨‍💻 About Me
 
-### 🔐 Cybersecurity
+🔐 Cybersecurity Engineer
+
+🛡️ Ethical Hacking & Penetration Testing
+
+🤖 AI Powered Cybersecurity
+
+🌐 Networking & Linux Administration
+
+📊 SIEM (Wazuh)
+
+🎓 Cybersecurity Trainer
+
+💡 Passionate about building secure infrastructure and sharing cybersecurity knowledge.
+
+---
+
+# 🚀 Tech Stack
+
+### Operating Systems
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=linux,docker,git,github,bash"/>
-
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,windows"/>
 </p>
 
+### Programming
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,bash,html,css,javascript"/>
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode"/>
+</p>
+
+### Cybersecurity
+
 <p>
 
-<img src="https://img.shields.io/badge/Burp%20Suite-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Kali%20Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Nmap-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Metasploit-00599C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Metasploit-1E4C9A?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Wazuh-0266C8?style=for-the-badge"/>
-
-</p>
-
----
-
-## 💻 Programming Languages
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css"/>
+<img src="https://img.shields.io/badge/Wazuh-0055A5?style=for-the-badge"/>
 
 </p>
-
----
-
-## 🌐 Networking
-
-- TCP/IP
-- OSI Model
-- DNS
-- DHCP
-- VLAN
-- VPN
-- pfSense Firewall
 
 ---
 
 # 💼 Featured Projects
 
-### 🔹 AI-Powered Cybersecurity Curriculum
+## 🔹 AI Powered Cybersecurity Training
 
 - Ethical Hacking
 - Networking
 - Linux
 - AI Security Automation
+- Prompt Engineering
 - SOC Analyst
 
 ---
 
-### 🔹 Digital Fraud Response & Monitoring System
+## 🔹 Digital Fraud Response & Monitoring System
 
 - Wazuh SIEM
-- Log Analysis
 - Threat Detection
 - Incident Monitoring
+- Security Dashboard
 
 ---
 
-### 🔹 Secure WebRTC Infrastructure
+## 🔹 Secure WebRTC Infrastructure
 
 - Docker
 - Linux Server
 - TURN/STUN
-- TLS
 - Reverse Proxy
+- TLS
 
 ---
 
-## 📊 GitHub Stats
+## 🔹 Network Security Lab
+
+- pfSense Firewall
+- IDS / IPS
+- VLAN
+- VPN
+- Access Control
+
+---
+
+# 📈 GitHub Activity
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=arshdeepsingh157&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshdeepsingh157&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arshdeepsingh157&theme=react-dark"/>
 
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+# 🐍 Contribution Snake
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=arshdeepsingh157&theme=tokyonight"/>
+<img src="https://raw.githubusercontent.com/arshdeepsingh157/arshdeepsingh157/output/github-contribution-grid-snake.svg">
 
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+# 🏆 Achievements
 
-<p align="center">
+🏅 Gold Medal – AIU North Zone Bhangra
 
-<img src="https://github-profile-trophy.vercel.app/?username=arshdeepsingh157&theme=algolia&column=4"/>
+🥈 Silver Medal – AIU National Bhangra
 
-</p>
+🎓 Cybersecurity Engineer
+
+👨‍🏫 Security Trainer
 
 ---
 
-## 🌍 Connect With Me
+# 🌍 Connect With Me
 
 <p align="center">
 
@@ -145,7 +154,7 @@ Cybersecurity Engineer | Ethical Hacker | AI-Powered Cybersecurity | Security Tr
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="https://cyber-persona.onrender.com/">
+<a href="https://cyber-persona.onrender.com">
 <img src="https://img.shields.io/badge/Portfolio-00E5FF?style=for-the-badge"/>
 </a>
 
@@ -153,18 +162,10 @@ Cybersecurity Engineer | Ethical Hacker | AI-Powered Cybersecurity | Security Tr
 
 ---
 
-## 👀 Profile Views
+<div align="center">
 
-<p align="center">
+![](https://komarev.com/ghpvc/?username=arshdeepsingh157&color=blue&style=for-the-badge)
 
-<img src="https://komarev.com/ghpvc/?username=arshdeepsingh157&style=for-the-badge&color=blue"/>
+### ⚡ "Hack to Secure • Learn to Defend"
 
-</p>
-
----
-
-<h3 align="center">
-
-⚡ "Hack to Secure • Learn to Defend"
-
-</h3>
+</div>
